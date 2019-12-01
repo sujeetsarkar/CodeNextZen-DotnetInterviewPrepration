@@ -29,7 +29,9 @@ namespace CodeNextZen_DesignPattern
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            SingletonDemo s = SingletonDemo.getInstance;
+            s.Print("First");
+            s.Print("Second");
         }
     }
 }
