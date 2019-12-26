@@ -1,0 +1,69 @@
+Garbage Collection - Past, Present and Future
+https://channel9.msdn.com/Shows/Going+Deep/Patrick-Dussud-Garbage-Collection-Past-Present-and-Future
+
+Advanced Garbage Collection
+https://docs.microsoft.com/en-us/dotnet/api/system.idisposable?view=netframework-4.7.2
+
+Custom Collection Classes
+https://www.codeproject.com/Articles/1180445/Learning-Csharp-Custom-Collection-Classes-in-Cshar
+
+Dynamic
+https://www.tutorialsteacher.com/csharp/csharp-dynamic-type
+
+Extension Methods
+https://www.tutorialsteacher.com/csharp/csharp-extension-method
+
+Func Delegates
+https://www.tutorialsteacher.com/csharp/csharp-func-delegate
+
+Auto Property Initilizaers
+https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-6#auto-property-initializers
+
+nameOf Operator
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/nameof
+
+Exception Filters
+https://weblogs.asp.net/dixin/c-6-0-exception-filter-and-when-keyword
+
+Expression bodied members
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/statements-expressions-operators/expression-bodied-members
+
+Multithreading
+https://jonskeet.uk/csharp/threads/
+
+XML in C#
+https://docs.microsoft.com/en-us/dotnet/standard/data/xml/
+
+Serialization
+https://docs.microsoft.com/en-us/dotnet/standard/serialization/
+
+
+Launch
+Video
+Getting Started with ADO.NET 4 Connections and Commands Using C# 2010
+https://mphasis.skillport.com/skillportfe/main.action?path=summary/COURSES/sd_adcs_a01_it_enus
+
+Launch
+Video
+Managing ADO.NET 4 Connections and Commands with C# 2010
+https://mphasis.skillport.com/skillportfe/main.action?path=summary/COURSES/sd_adcs_a02_it_enus
+
+Launch
+Video
+Getting Started with ADO.NET 4 DataSets Using C# 2010
+__Skillport
+
+Viewing and Navigating Data with ADO.NET 4 DataSets Using C# 2010
+__Skillport
+
+Updating ADO.NET DataSets with C# 2010
+__Skillport
+
+Synchronizing Data and Managing ADO.NET 4 Applications with C# 2010
+__Skillport
+
+Programming in C#: Managing Program Flow
+__Skillport
+
+C# 6 new Features
+https://channel9.msdn.com/Events/Visual-Studio/Connect-event-2014/116
